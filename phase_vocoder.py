@@ -1,5 +1,6 @@
 import pyaudio
-import numpy, scipy.fftpack, wave
+import numpy, wave
+#import scipy.fftpack
 import Tkinter
 import pianoputer
 
